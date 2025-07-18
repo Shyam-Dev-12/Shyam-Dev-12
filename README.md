@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Shyam!
 
-<!--
-**Shyam-Dev-12/Shyam-Dev-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-stack Developer** passionate about building modern, responsive, and user-friendly web applications using the **MERN stack**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- 🚀 JavaScript | React | Node.js | Express
+- 🛢️ MongoDB | Mongoose
+- 🌐 HTML | CSS | Bootstrap | Tailwind CSS
+
+---
+
+### 🔧 Tools & Platforms
+- 💻 VS Code | Git & GitHub | Postman
+- ☁️ Cloudinary | Vercel | Netlify
+
+---
+
+> “Code is not just instructions. It’s a reflection of how you think.”
