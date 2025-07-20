@@ -18,7 +18,7 @@ I'm a **Full-stack Web Developer** passionate about building responsive and dyna
 ---
 
 ### 📌 Projects
-- 🎯 [Presento](https://github.com/shyam-dev-12/presento): Clean & modern Bootstrap-based portfolio  
+- 🎯 [Presento](https://github.com/Shyam-Dev-12/PRESENTO-PORTFOLIO): Clean & modern Bootstrap-based portfolio  
 - ✅ [To-Do App](https://github.com/yourusername/todo-app): A full-stack MERN task manager  
 - 🌦️ [Weather App](https://github.com/yourusername/weather-app): Live weather forecast using public APIs  
 - 🧮 [Counter App](https://github.com/yourusername/counter-app): Simple counter built using vanilla JS
