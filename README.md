@@ -21,8 +21,6 @@ I'm a **Full-stack Web Developer** passionate about building responsive and dyna
 -  [Presento](https://github.com/Shyam-Dev-12/PRESENTO-PORTFOLIO): Clean & modern Bootstrap-based portfolio
 -  [Weather App](https://github.com/Shyam-Dev-12/WEATHER_APPLICATION): Live weather forecast using public APIs
 -  [Counter App](https://github.com/Shyam-Dev-12/COUNTER_APPLICATION): Simple counter application built using JavaScript
--  [To-Do App](https://github.com/Shyam-Dev-12/WEATHER_APPLICATION): A full-stack MERN task manager  
-  
    
 
 ---
@@ -41,4 +39,4 @@ I'm a **Full-stack Web Developer** passionate about building responsive and dyna
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shyam-12AF)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shyam-12af)  
