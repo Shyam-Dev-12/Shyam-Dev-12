@@ -1,6 +1,6 @@
 ### Hi, I'm Shyam!
 
-I'm a **Full-stack Web Developer** passionate about building responsive and dynamic web applications using the **MERN stack**. I love turning ideas into reality through code and continuously learning new technologies to enhance my skills.
+I'm a **Full-Stack Web Developer** passionate about building responsive and dynamic web applications using the **MERN stack**. I love turning ideas into reality through code and continuously learning new technologies to enhance my skills.
 
 ---
 
