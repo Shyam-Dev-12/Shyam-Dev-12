@@ -5,9 +5,9 @@ I'm a **Full-stack Web Developer** passionate about building responsive and dyna
 ---
 
 ### Tech Stack
--  JavaScript | React.js | Node.js | Express.js
--  MongoDB | Mongoose
--  HTML | CSS | Bootstrap | Tailwind CSS
+- **Frontend:** React.js | Redux | Context API | JavaScript |  HTML5 | CSS3 | Bootstrap | Tailwind CSS  
+- **Backend:** Node.js | Express.js  | Mongoose
+- **Database:** MongoDB | Mongoose 
 
 ---
 
