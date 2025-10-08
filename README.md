@@ -22,6 +22,8 @@ I'm a **Full-Stack Web Developer** passionate about building responsive and dyna
 -  [Weather App](https://github.com/Shyam-Dev-12/WEATHER_APPLICATION): Live weather forecast using public APIs
 -  [Counter App](https://github.com/Shyam-Dev-12/COUNTER_APPLICATION): Simple counter application built using JavaScript
 -  [LOGIN_SIGN-UP_APPLICATION](https://github.com/Shyam-Dev-12/LOGIN_SIGN-UP_APPLICATION): Login_Signup_Application: Clean and interactive login/signup app built with React, Vite, and Tailwind CSS, featuring form validation and storing user data locally using localStorage.
+-  [TO-DO_APPLICATION](https://github.com/Shyam-Dev-12/TO-DO_APPLICATION): Full-stack MERN To-Do app built with React, Redux Toolkit, and Tailwind CSS, featuring task creation, update, deletion, authentication, and secure data storage using Node.js, Express, and MongoDB.
+ 
    
 
 ---
